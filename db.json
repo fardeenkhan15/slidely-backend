@@ -1,9 +1,23 @@
 [
   {
+    "name": "Fardeen Khan",
+    "email": "mdfardeen232002@gmail.com",
+    "phone": "7974149040",
+    "github_link": "https://github.com/fardeenkhan15/slidely-backend",
+    "stopwatch_time": "00:00:06"
+  },
+  {
     "name": "fardeen ",
     "email": "fardeen@gmail.com",
     "phone": "9887879887809",
-    "github_link": "isjjcjc",
-    "stopwatch_time": "00:00:03"
+    "github_link": "link",
+    "stopwatch_time": "00:00:02"
+  },
+  {
+    "name": "pratikh",
+    "email": "pratik@gmail",
+    "phone": "8787887988",
+    "github_link": "link",
+    "stopwatch_time": "00:00:02"
   }
 ]
